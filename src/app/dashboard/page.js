@@ -44,6 +44,7 @@ export default function HomePage() {
     <div className="min-h-screen bg-[#050505] text-white font-sans selection:bg-blue-500/30">
       
       {/* NAVBAR SIMPLE */}
+      {/*
       <nav className="border-b border-white/5 p-6 backdrop-blur-md sticky top-0 z-50 bg-[#050505]/80">
         <div className="max-w-7xl mx-auto flex justify-between items-center">
           <div className="flex items-center gap-2">
@@ -57,6 +58,7 @@ export default function HomePage() {
           </button>
         </div>
       </nav>
+      */}
 
       <main className="max-w-7xl mx-auto p-6 md:p-12">
         
